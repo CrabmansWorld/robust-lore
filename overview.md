@@ -1,12 +1,14 @@
 # RobustStation lore overview
 
  - 1. Sector
+   + 1.1 Lavaland
  - 2. Nanotrasen and the Wizard Federation
    + 2.1 Wizard governance
    + 2.2 Nanotrasen governance
  - 3. Technology and the Asclepian
    + 3.1 Bluespace travel
    + 3.2 Magic practices
+   + 3.3 The Necropolis
  - x. Mechanical implications
 ___
 
@@ -18,6 +20,12 @@ Central Command's information outpost: **Titania Orbit, Ouranos**\
 Lavaland's location: **Hephaistos**
 
 The sector is named after its primary and only star **Proxima Hyperion** or **Hyperion** to non-human characters.
+
+### 1.1 Lavaland
+
+The title is inherently reductive, a result of Wizard academics who have tried to ward off thrillseekers and untrained personnel from the Hephaistos perimeter - the strategy has had questionable success. The mining perimeters are entirely owned by Nanotrasen.
+
+The true nature of Lavaland is elaborated on in **Chapter 3.3** - for the sake of an overview: **The mining perimeter called Lavaland is not confined to just Hephaistos**, but the planet itself holds the biggest and most important site relevant to the Necropolis, which is needed by scholars to access the novel magic within.
 
 ## 2. Nanotrasen and the Wizard Federation
 
@@ -57,7 +65,7 @@ The effects of a cavitation collapse can range from mild inconveniences to city-
 
 ### 3.1 Bluespace travel
 
-Since conventional propulsion can take **hours to days** to simply reach different orbits of the same planet, most intrastellar shuttles are equipped with **Bluespace engines**: they're bulky, heavy thrusters that require external heating, and are prone to breaking when traversing long distances quickly - or worse. Nevertheless, this makes Nanotrasen the **leading exporter of Bluespace vessels** in Hyperion Proxima, and for this reason alone the sector is frequently cited by outsiders as a service center for personal and commercial ships. 
+Since conventional propulsion can take **hours to days** to simply reach different orbits of the same planet, most intrastellar shuttles are equipped with **Bluespace engines**: they're bulky, heavy thrusters that require external heating, and are prone to breaking when traversing long distances quickly - or worse. Regardless, this makes Nanotrasen the **leading exporter of Bluespace vessels** in Hyperion Proxima, and for this reason alone the sector is frequently cited by outsiders as a service center for personal and commercial ships. 
 
 The most bare-bones Bluespace shuttle can cover **between 2 and 15 parsecs in the span of a day**, with the ideal distance determined by the *path* that the Bluespace cavitations will take in real space. **Divinations and blessing rituals** can steer the outcome in the pilot's favor, though it is not guaranteed.
 
@@ -72,6 +80,12 @@ Hephaistos lends itself to unsupervised experimentation due to its inherently un
 Each Nanotrasen station is offered space for Chaplains to carry out blessing rituals and divinations to their discretion. **They may still carry out rituals in public.**
 
 Cybermancy is relegated to the **activation of personas in synthetic brains** - the relevant rituals to give them sapience. The practices are unreliable and often **fail**, resulting in normal automatons instead. If a cybermancy invocation works, **the synthetic unit will retain its sapience,** regardless of brain type, and will always have the intellectual capacity of an adult human at minimum, experience not withstanding.
+
+### 3.3 The Necropolis
+
+The true dangers of Lavaland magic lies with the Necropolis, a **construct to an uneplored reality** that some Wizard theologian have attempted to connect to the Human traditional literatures that references realms of divine punishment, like Sheol or Hell.
+
+Once manifested, the Necropolis will **offer some of its powers** to vulnerable sapients and not, with the ultimate goal of expanding its influence; its success is seen on Hephaistos with the **Ashwalkers**, a tribe formed from the several Lizardman fleets that were reformed - and physically reshaped, giving them greater hunting abilities and rock-like skin.
 
 ## x. Mechanical implications
 
