@@ -83,9 +83,11 @@ Cybermancy is relegated to the **activation of personas in synthetic brains** - 
 
 ### 3.3 The Necropolis
 
-The true dangers of Lavaland magic lies with the Necropolis, a **construct to an uneplored reality** that some Wizard theologian have attempted to connect to the Human traditional literatures that references realms of divine punishment, like Sheol or Hell.
+The true dangers of Lavaland magic lies with the Necropolis, a **construct to an unexplored reality** that some Wizard theologians have attempted to connect to the Human classical literatures, those that define realms of divine punishment, like Sheol or Hell. 
 
-Once manifested, the Necropolis will **offer some of its powers** to vulnerable sapients and not, with the ultimate goal of expanding its influence; its success is seen on Hephaistos with the **Ashwalkers**, a tribe formed from the several Lizardman fleets that were reformed - and physically reshaped, giving them greater hunting abilities and rock-like skin.
+Once manifested, the Necropolis will **offer some of its powers** to vulnerable sapients and not, with the ultimate goal of expanding its influence; its success is seen on Hephaistos with the **Ashwalkers**, a tribe created from the several, previously migrating Lizardman fleets that were reformed - and physically reshaped, giving them greater hunting abilities and rock-like skin. The true shape of the Necropolis remains unseen, even by Ashwalker magicians. 
+
+Nanotrasen maintains a tight control on Necropolis summonings; their miners' intuitions leads them to chase after greater **Devils** like the pink-skinned Bubblegum, in pursuit of performance bonuses, greater spells or bragging rights.
 
 ## x. Mechanical implications
 
